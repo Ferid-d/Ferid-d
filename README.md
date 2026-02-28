@@ -1,6 +1,7 @@
 # 💻 About Me:
 I'm a security enthusiast currently in the "learning phase" 🧠. My daily routine involves breaking things (legally!) and figuring out how to fix them. My ultimate goal is to become a professional Penetration Tester. 🛡️💻<br><br>🔍 What I'm Up To:<br><br>    🚩 CTF Player: Constantly hunting flags on TryHackMe & HackTheBox.<br><br>    🐍 Scripting: Writing Python and Bash scripts to automate the boring stuff.<br><br>    📚 Learning: Diving deep into Web App Pentesting and Network Security.<br><br>    🐧 OS: Spending most of my time inside Kali Linux.<br><br><br>
 
+----
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farid-meybullayev-7a34b4340/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fmeybullayev@gmail.com) 
 
